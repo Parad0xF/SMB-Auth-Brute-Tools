@@ -73,4 +73,4 @@ Sample `users.txt` and `passwords.txt` files are included to illustrate the expe
 Contributions and feedback are welcome. If you have ideas for smarter throttling, better output integrations, or improved documentation, open an issue or PR.
 
 ## License
-The project currently lacks an explicit license. Add one (MIT, Apache-2.0, etc.) before distributing binaries or incorporating the code into other tooling.
+Released under the [MIT License](LICENSE). Review the terms before redistributing or embedding the code in other tooling.
